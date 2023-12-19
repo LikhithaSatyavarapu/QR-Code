@@ -21,8 +21,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![Desktop View]("C:\Users\satya\OneDrive\Desktop\qr-code-component-main\Screenshot Desktop view.png")
-![Mobile View]("C:\Users\satya\OneDrive\Desktop\qr-code-component-main\Screenshot Mobile View.png")
+![Desktop View](./Screenshot%20Desktop%20view.png)
+![Mobile View](./Screenshot%20Mobile%20View.png)
 
 ### Links
 
